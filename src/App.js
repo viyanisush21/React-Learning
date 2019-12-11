@@ -32,7 +32,7 @@ class App extends Component {
   }
   render() {
     const style={
-      backgroundColor: 'white',
+      backgroundColor: 'blue',
       font : 'inherit',
       border : '1px solid blue',
       padding:'8px',
